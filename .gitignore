@@ -1,0 +1,41 @@
+# R project file
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+**/*.Rproj
+
+
+# eclipse project file
+.settings/
+.classpath
+.project
+*.pydevproject
+.buildpath
+
+# OS 
+**/.DS_Store
+
+# Python
+__pycache__
+.ipynb_checkpoints
+
+# Binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+
+
+/datasci_course_materials/
+/machine_learning_andrew_ng/
+/deep_learning_specialization/
+
